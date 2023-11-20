@@ -49,6 +49,7 @@ export const managers = [
       "tradingScale": 5, // 1 - 10 (optional)
       "preferredContact": "Discord",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
+  ]
     
   //   {
   //     "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
